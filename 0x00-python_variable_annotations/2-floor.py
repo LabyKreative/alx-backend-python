@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
-'''
- function floor which takes a float n as argument.
-'''
+"""function floor which takes a float n as argument and"""
 
 
 def floor(a: float) -> int:
-    '''Computes the floor of a floating-point number.
-    '''
+    """returns the floor of the floatr."""
     return int(a)
