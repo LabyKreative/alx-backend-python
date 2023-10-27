@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
-'''
- function to_str that takes a float n as arg
-'''
+"""function to_str that takes a float n as argument and"""
 
 
 def to_str(n: float) -> str:
-    '''Converts a floating-point number to a string.
-    '''
+    """returns the string representation of the float."""
     return str(n)
